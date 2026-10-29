@@ -3,8 +3,8 @@
    WhatsApp format: country code + number, digits only (no +, spaces or hyphens).
    Example format only: 9715XXXXXXXX
 */
-const BUSINESS_EMAIL = "hello@yourbusiness.com";
-const WHATSAPP_NUMBER = "971500000000";
+const BUSINESS_EMAIL = "fibron85@gmail.com";
+const WHATSAPP_NUMBER = "971558895749";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const nav = document.querySelector(".nav");
